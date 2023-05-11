@@ -1,3 +1,4 @@
 export const index = {
-    name: "kaique"
+    name: "kaique",
+    idade: 50
 }

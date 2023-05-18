@@ -4,6 +4,9 @@ export const colors = {
 
     linkActive: '#1A0DAB',
     linkVisited: '#681DA8',
+    linkVisite: '#681DA8',
+    linkVisid: '#681DA8',
+    link: '#681DA8',
 
     primary: {
         blue50: '#E3F2FD',
